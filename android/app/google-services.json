@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "92335594156",
+    "firebase_url": "https://flutterfirebasedemo-d7572-default-rtdb.firebaseio.com",
+    "project_id": "flutterfirebasedemo-d7572",
+    "storage_bucket": "flutterfirebasedemo-d7572.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92335594156:android:ef95bf9709c07cbe1e1d09",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuC7HGyZoi3TIZDCHvykNAURvI15QhyBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
